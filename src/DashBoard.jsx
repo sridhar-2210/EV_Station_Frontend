@@ -1,7 +1,7 @@
 import "./DashBoard.css"
 import Searchbar from "./Searchbar.jsx"
 import Status from "./Status.jsx"
-import Connectors from "./connectors.jsx"
+import Connectors from "./Connectors.jsx"
 import { useState } from "react"
 import List from "./List.jsx"
 import MapView from "./MapView.jsx"
