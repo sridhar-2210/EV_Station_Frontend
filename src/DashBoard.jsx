@@ -1,4 +1,4 @@
-import "./Dashboard.css"
+import "./DashBoard.css"
 import Searchbar from "./Searchbar.jsx"
 import Status from "./Status.jsx"
 import Connectors from "./connectors.jsx"
