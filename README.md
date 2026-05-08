@@ -4,18 +4,13 @@ An interactive, high-performance web application designed for Electric Vehicle (
 
 ---
 
-## 🚀 Live Demo
-[**View Live Application**](https://github.com/sridhar-2210/EV_Station_Frontend)  
-
----
-
 ## ✨ Key Features
 
-- **Interactive Station Map:** Real-time visualization of charging hubs with custom markers and status indicators.
-- **Smart Filtering System:** Advanced search capabilities to filter stations by connector type, power output, and real-time availability.
-- **Seamless Booking Flow:** An intuitive multi-step booking interface with conflict handling for time slots.
-- **Dynamic User Dashboard:** Profile management, charging history tracking, and favorite station bookmarks.
-- **Fully Responsive:** Mobile-first design approach ensuring a smooth experience across all screen sizes.
+* **Interactive Station Map:** Real-time visualization of charging hubs with custom markers and status indicators.
+* **Smart Filtering System:** Advanced search capabilities to filter stations by connector type, power output, and real-time availability.
+* **Seamless Booking Flow:** An intuitive multi-step booking interface with conflict handling for time slots.
+* **Dynamic User Dashboard:** Profile management, charging history tracking, and favorite station bookmarks.
+* **Fully Responsive:** Mobile-first design approach ensuring a smooth experience across all screen sizes.
 
 ---
 
@@ -34,16 +29,16 @@ An interactive, high-performance web application designed for Electric Vehicle (
 
 ## 🏗️ Technical Highlights
 
-- **Component-Driven Development:** Built using a modular folder structure for high maintainability and reusability.
-- **Performance Optimization:** Utilized React.memo, useCallback, and lazy loading to ensure lightning-fast page transitions.
-- **Clean API Integration:** Implemented custom hooks and interceptors to manage global loading states and error handling gracefully.
-- **Accessible UI:** Followed WAI-ARIA guidelines to ensure the application is usable for everyone.
+* **Component-Driven Development:** Built using a modular folder structure for high maintainability and reusability.
+* **Performance Optimization:** Utilized React.memo, useCallback, and lazy loading to ensure lightning-fast page transitions.
+* **Clean API Integration:** Implemented custom hooks and interceptors to manage global loading states and error handling gracefully.
+* **Accessible UI:** Followed WAI-ARIA guidelines to ensure the application is usable for everyone.
 
 ---
 
 ## 🚦 Installation & Setup
 
-To get a local copy up and running, follow these simple steps:
+To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
    git clone https://github.com/sridhar-2210/EV_Station_Frontend.git
@@ -72,7 +67,7 @@ To get a local copy up and running, follow these simple steps:
 
 **Sridhar**
 * **GitHub:** [@sridhar-2210](https://github.com/sridhar-2210)
-* **LinkedIn:** [@vangara-sridhar](https://www.linkedin.com/in/vangara-sridhar/)
+* **LinkedIn:** [/vangara-sridhar](https://www.linkedin.com/in/vangara-sridhar/)
 
 ---
 *This project was developed to showcase frontend engineering capabilities in the Green-Tech sector.*
