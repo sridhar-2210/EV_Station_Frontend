@@ -73,7 +73,7 @@ To get a local copy up and running, follow these simple steps:
 
 **Sridhar**
 * **GitHub:** [@sridhar-2210](https://github.com/sridhar-2210)
-* **LinkedIn:** [Insert Your LinkedIn Link]
+* **LinkedIn:** [@vangara-sridhar](https://www.linkedin.com/in/vangara-sridhar/)
 
 ---
 *This project was developed to showcase frontend engineering capabilities in the Green-Tech sector.*
