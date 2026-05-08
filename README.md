@@ -6,7 +6,6 @@ An interactive, high-performance web application designed for Electric Vehicle (
 
 ## 🚀 Live Demo
 [**View Live Application**](https://github.com/sridhar-2210/EV_Station_Frontend)  
-*(Note: Replace this link with your Vercel/Netlify deployment URL for maximum impact)*
 
 ---
 
